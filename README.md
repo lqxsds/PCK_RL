@@ -1,7 +1,7 @@
-# ManiSkill 3 (Beta)
+# PCL-RL
 
 
-The source code for pck_rl is being organized and will be released as soon as possible.
+The source code for pck-rl is being organized and will be released as soon as possible.
 
 ## License
 
